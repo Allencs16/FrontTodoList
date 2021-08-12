@@ -1,0 +1,30 @@
+*{
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+  background-color: #222222;
+}
+
+.card{
+  background-color: #222222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40rem;
+  border-radius: 15px;
+  margin: 0.7rem 0;
+}
+
+.cardHeader{
+  background-color: #222222;
+  margin: 0.2rem 0;
+}
+
+.cardBody{
+  background-color: #222222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
